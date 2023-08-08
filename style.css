@@ -20,9 +20,10 @@
       
 }
  .hack1{
-    border: 1px solid red;
+    border: 2px solid rgb(31, 28, 28);
     height: 450px;
     width: 600px;
+    border-radius: 30px;
     
    
     
@@ -30,7 +31,6 @@
 .ima{
     height: 150px;
     width: 150px;
-    border: 1px solid black;
     margin-left: 40%;
     
 }
