@@ -1,0 +1,41 @@
+.pers{
+    border: 1px solid black;
+    height: 500px;
+    width: 600px;
+    justify-content: center;
+    text-align: center;
+    display: flex;
+    margin: 0 auto;
+    margin-top:80px ;
+    background-color: rgb(153, 138, 168);
+    border-radius: 30px;
+    
+}
+
+.hack{
+   
+    justify-content: center;
+    text-align: center;
+    display: flex;
+      
+}
+ .hack1{
+    border: 1px solid red;
+    height: 450px;
+    width: 600px;
+    
+   
+    
+}
+.ima{
+    height: 150px;
+    width: 150px;
+    border: 1px solid black;
+    margin-left: 40%;
+    
+}
+.imag{
+    height: 150Px;
+    width: 150px;
+    border-radius: 100%;
+}
